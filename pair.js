@@ -6,7 +6,7 @@ const fs = require('fs');
 let router = express.Router()
 const pino = require("pino");
 const {
-    default: Gifted_Tech,
+    default: Goodchild_Tech,
     useMultiFileAuthState,
     delay,
     makeCacheableSignalKeyStore,
